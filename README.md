@@ -2,6 +2,14 @@
 
 Fetches ABI json for any verified contract uploaded to mainnet or sepolia Etherscan
 
+## Setup
+
+```sh
+cp env.example .env
+# Now add your Etherscan API key to .env
+# More info @: https://docs.etherscan.io/getting-started/viewing-api-usage-statistics#creating-an-api-key
+```
+
 ## Usage
 
 ```sh
